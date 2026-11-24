@@ -1,0 +1,30 @@
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+
+body {
+    background-color: #f8f4ef;
+    color: #333333;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #9b6b7d;
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    color: #9b6b7d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d49aaa;
+    text-decoration: underline;
+}
